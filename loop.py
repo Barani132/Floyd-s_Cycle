@@ -1,5 +1,4 @@
 #Detect Loop in Linked List (Floyd’s Cycle)
-
 def has_cycle(head):
     slow = head
     fast = head
